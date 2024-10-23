@@ -4,7 +4,7 @@
 
 
 .head{
-    background-color: rgb(161, 233, 209);
+    background-color: black;
     padding: 20px 10px;
     display: flex;
     justify-content:space-evenly;
@@ -22,7 +22,10 @@
     text-align: right;
 }
 .toggle{
-    background-color: black;
+    background-color: green;
+}
+.toggle:visited{
+     background-color: grey;
 }
 .logo{
     color: white;
@@ -72,7 +75,7 @@
     height: 200px;
 }
 .about{
-    background-color: aquamarine;
+    background-color: aquae;
     height: 350px;
     width: 1370px;
 }
