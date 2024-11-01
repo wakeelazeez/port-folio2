@@ -284,13 +284,13 @@ input[type=Email], input[type=name],input[type=textarea]{
         }
         .services{
             display: block;
-            width: 350px;
+            width: 300px;
             padding: 10px;
             text-align: center;
             
         }
         .servicessection{
-            width: 390px;
+            width: 350px;
             height: 2050px;
         }
         .Backend{
